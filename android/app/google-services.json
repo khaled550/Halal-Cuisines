@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "639845431980",
+    "firebase_url": "https://halal-cuisines-default-rtdb.firebaseio.com",
+    "project_id": "halal-cuisines",
+    "storage_bucket": "halal-cuisines.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639845431980:android:26fb93994b5760dd7c7d09",
+        "android_client_info": {
+          "package_name": "com.khaled.halal_cuisines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639845431980-ckan2ig2a8m2g53h7iqlp13s6qf9je49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgeKBJ1tgZ9Sb-OTXHuYLii4qKVmHvEcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639845431980-ckan2ig2a8m2g53h7iqlp13s6qf9je49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
